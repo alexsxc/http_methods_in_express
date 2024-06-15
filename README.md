@@ -64,6 +64,3 @@ Enjoy coding! 💻✨
 
 If you encounter any issues or have suggestions, feel free to open an issue or submit a pull request. Contributions are always welcome! 😊
 
----
-
-Feel free to customize this `README.md` file further according to your project's specific needs and details. Happy coding!
